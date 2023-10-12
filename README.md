@@ -96,6 +96,8 @@ The segmentation model is evaluated using the following metrics:
 
 These metrics are calculated separately for the training, validation, and testing phases. Dice and Jaccard are further calculated for each segment.
 
+IoU and Loss graphs for training and validation phase are also created.
+
 ## MIT License
 
 <a name="license"></a>
